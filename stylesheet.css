@@ -176,6 +176,7 @@ span{
   display: inline-block;
   font-family: Arial narrow;
   margin-top: 25px;
+  position: relative;
   font-size: 15px;
   color: #c0c0c0;
 }
